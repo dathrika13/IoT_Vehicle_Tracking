@@ -1,0 +1,70 @@
+# Arduino IDE files
+*.elf
+*.hex
+*.bin
+*.map
+*.eep
+
+# Build directories
+build/
+.build/
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDE specific files
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# Compiled libraries
+*.o
+*.a
+*.so
+
+# Log files
+*.log
+
+# Credentials file (if you create one)
+credentials.h
+secrets.h
+config_local.h
+
+# Python files (if any)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.env
+
+# Documentation build files
+docs/_build/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Archives
+*.zip
+*.tar.gz
+*.rar

@@ -1,0 +1,24 @@
+Item No.,Component,Description,Quantity,Specifications,Approx. Cost (USD),Purchase Link
+1,NodeMCU ESP8266,WiFi-enabled microcontroller,1,"ESP-12E, 3.3V logic, 80MHz",3.5,https://www.amazon.com/dp/B010O1G1ES
+2,NEO-6M GPS Module,GPS receiver with antenna,1,"2.7-3.6V, UART, 9600 baud",8,https://www.amazon.com/dp/B07P8YMVNT
+3,DHT11 Sensor,Temperature & humidity sensor,1,"3.3-5V, 0-50°C, 20-90% RH",2,https://www.amazon.com/dp/B01DKC2GQ0
+4,L293D Motor Driver,Dual H-Bridge motor driver IC,1,"4.5-36V motor, 600mA per channel",2.5,https://www.amazon.com/dp/B00M2593ZM
+5,BO Motor,Battery operated DC geared motor,4,"3-6V, 150 RPM, dual shaft",6,https://www.amazon.com/dp/B07VBXBRMQ
+6,16x2 LCD with I2C,LCD display module,1,"I2C interface, 0x27/0x3F address",4,https://www.amazon.com/dp/B07S7PJYM6
+7,Li-ion Battery 18650,Rechargeable battery,3,"3.7V, 2600mAh",9,https://www.amazon.com/dp/B07QKQJ8NH
+8,Battery Holder,18650 battery holder,1,3-cell series holder,1.5,https://www.amazon.com/dp/B07CWKZ7RM
+9,Jumper Wires,Male-Male & Male-Female,40,"20cm length, assorted",3,https://www.amazon.com/dp/B01EV47GI4
+10,Breadboard,Prototyping board,1,830 tie points,3.5,https://www.amazon.com/dp/B07DL13RZH
+11,Micro USB Cable,Programming & power cable,1,"1m length, data capable",2,https://www.amazon.com/dp/B07232M876
+12,Robot Chassis,4WD vehicle platform,1,"Acrylic/plastic, with mounting holes",8,https://www.amazon.com/dp/B07DNXBFQN
+13,Wheels,Rubber wheels for BO motor,4,65mm diameter,4,https://www.amazon.com/dp/B07DQGX369
+14,Switch,Power on/off switch,1,SPST toggle switch,0.5,https://www.amazon.com/dp/B07QQ4LS2B
+15,Voltage Regulator,5V/3.3V regulator module,1,LM7805 or AMS1117,1,https://www.amazon.com/dp/B07CP4P5XJ
+,,,,,,
+,,,,TOTAL ESTIMATED COST:,$58.50 ,
+,,,,,,
+NOTES:,,,,,,
+1. Prices are approximate and may vary by seller/region,,,,,,
+2. Links are for reference only - verify compatibility before purchasing,,,,,,
+3. Consider buying component kits for better value,,,,,,
+4. Some components may be optional depending on your use case,,,,,,
