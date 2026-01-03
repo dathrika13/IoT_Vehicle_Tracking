@@ -7,7 +7,6 @@
 
 An IoT-based solution for real-time vehicle tracking and environmental monitoring, designed for agricultural applications. This system uses GPS to track vehicle location and transmits data to the cloud for visualization and analysis.
 
-![Project Banner](docs/images/banner.png)
 
 ---
 
