@@ -1,4 +1,4 @@
-# 🚗 Autonomous Vehicle Tracking and Monitoring Using IoT
+# Autonomous Vehicle Tracking and Monitoring Using IoT
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-NodeMCU%20ESP8266-blue.svg)](https://www.nodemcu.com/)
@@ -11,7 +11,7 @@ An IoT-based solution for real-time vehicle tracking and environmental monitorin
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [About The Project](#about-the-project)
 - [Features](#features)
@@ -33,7 +33,7 @@ An IoT-based solution for real-time vehicle tracking and environmental monitorin
 
 ---
 
-## 🎯 About The Project
+## About The Project
 
 In agricultural environments, heavy vehicles like harvesters and tractors are essential for farming operations. This IoT-based system enables:
 
@@ -62,7 +62,7 @@ The system uses NodeMCU (ESP8266) as the main microcontroller, which connects to
 
 ---
 
-## 🔧 Hardware Requirements
+## Hardware Requirements
 
 | Component | Quantity | Description |
 |-----------|----------|-------------|
@@ -79,7 +79,7 @@ The system uses NodeMCU (ESP8266) as the main microcontroller, which connects to
 
 ---
 
-## 💻 Software Requirements
+## Software Requirements
 
 - [Arduino IDE](https://www.arduino.cc/en/software) (v1.8.x or later)
 - [ThingSpeak Account](https://thingspeak.com/) (Free)
@@ -100,7 +100,7 @@ Install these libraries via Arduino IDE Library Manager:
 
 ---
 
-## 🔌 Circuit Diagram
+## Circuit Diagram
 
 ### Pin Connections
 
@@ -153,7 +153,7 @@ Battery Configuration (Series Connection):
 
 ---
 
-## 📥 Installation
+## Installation
 
 ### Step 1: Set Up Arduino IDE for ESP8266
 
@@ -208,7 +208,7 @@ const char* write_api = "YOUR_WRITE_API_KEY";
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. **Power on** the circuit
 2. Wait for **WiFi connection** (IP address displayed on LCD)
@@ -219,7 +219,7 @@ const char* write_api = "YOUR_WRITE_API_KEY";
 
 ---
 
-## 📡 ThingSpeak Setup
+## ThingSpeak Setup
 
 1. Create account at [thingspeak.com](https://thingspeak.com)
 2. Click **"New Channel"**
@@ -235,7 +235,7 @@ const char* write_api = "YOUR_WRITE_API_KEY";
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 iot-vehicle-tracking/
@@ -268,7 +268,7 @@ iot-vehicle-tracking/
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### ThingSpeak Dashboard
 ![ThingSpeak Dashboard](docs/images/thingspeak_dashboard.png)
